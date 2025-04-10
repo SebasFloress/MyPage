@@ -1,0 +1,26 @@
+* body {
+    min-width: 375px;
+    width: 100%;
+    min-height: 110vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(59, 43, 18);
+}
+
+img {
+    border-radius: 5%;
+    size: 7rem;
+    align-items: center;
+    size-adjust: 6rem;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(243, 235, 202);
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+}
